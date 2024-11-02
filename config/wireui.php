@@ -66,7 +66,7 @@ return [
 
     'dialog' => Config::dialog(),
 
-    'dropdown' => Config::dropdown(),
+    'wui-dropdown' => Config::dropdown(),
 
     'icon' => Config::icon(),
 
@@ -84,7 +84,7 @@ return [
 
     'link' => Config::link(),
 
-    'modal' => Config::modal(),
+    'wui-modal' => Config::modal(),
 
     'modal-card' => Config::modal(),
 
